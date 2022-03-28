@@ -1,0 +1,22 @@
+body{
+	font-family: 'Montserrat', sans-serif;
+	background: #F3F3F3;
+}
+.popup{
+	position: fixed;
+	right: 20px;
+	bottom: 50px;
+	width: 100%;
+	max-width: 200px;
+	padding: 10px 15px;
+	border-radius: 0 10px 0 10px;
+	display: none;
+	border: 1px solid #252525;
+	background: #FFFFFF;
+}
+.popup-content{
+	font-size: 14px;
+}
+.popup-actions{
+	font-weight: 600;
+}
